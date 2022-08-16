@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jupyterlab = "==4.0.0a27"
+ginza = "==5.1.2"
+ja-ginza-electra = "==5.1.2"
 
 [dev-packages]
 
